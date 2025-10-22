@@ -1,0 +1,7 @@
+{
+  "name": "AI Friend Avatar",
+  "description": "An interactive AI assistant with a friendly, animated avatar that responds to your chats and speaks back to you. Features optional voice input.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
